@@ -1,2 +1,2 @@
 # Desafios
- Desafios para a vaga da Trget
+ Desafios para a vaga da Target
